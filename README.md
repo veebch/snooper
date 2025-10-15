@@ -5,7 +5,7 @@
 ## You'll Need:
 
 - [PDLC film (21x30 cm)](https://de.aliexpress.com/item/1005001397939923.html)
-- [Wireless Switch](https://de.aliexpress.com/item/1005008976707772.html)
+- [Wireless Kinetic Switch](https://de.aliexpress.com/item/1005008976707772.html)
 - Glass/Acrylic for mounting to
 - 100 kΩ resistor
 - Switch Housing (stl in [3d](/3d))
