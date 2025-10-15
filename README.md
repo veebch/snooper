@@ -8,8 +8,8 @@
 - [Wireless Switch](https://de.aliexpress.com/item/1005008976707772.html)
 - Glass/Acrylic for mounting to
 - 100 kΩ resistor
-- Housing (stl in /3d)
-- 2 x Foot (stl in /3d)
+- Switch Housing (stl in `/3d`)
+- 2 x Foot for glass/acrylic (stl in `/3d`)
 
 Assembly instructions in this video:
 
