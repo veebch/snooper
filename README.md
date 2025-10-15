@@ -11,6 +11,6 @@
 - Housing (stl in /3d)
 - 2 x Foot (stl in /3d)
 
-Assembly instructions in this video. 
+Assembly instructions in this video:
 
 
