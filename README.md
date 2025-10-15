@@ -2,7 +2,7 @@
 
 # Snooper Shield
 
-##BoM
+## You'll Need:
 
 - PDLC film (21x30 cm)
 - Glass/Acrylic for mounting to
