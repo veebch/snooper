@@ -13,4 +13,7 @@
 
 Assembly instructions in this video:
 
+[![Mod demo](http://img.youtube.com/vi/m1QyuzTxk2I/0.jpg)](http://www.youtube.com/watch?v=m1QyuzTxk2I "Video Title")
+
+
 
